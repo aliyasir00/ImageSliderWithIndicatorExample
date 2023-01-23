@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ImageSliderWithIndicatorExample.iml" filepath="$PROJECT_DIR$/.idea/modules/ImageSliderWithIndicatorExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ImageSliderWithIndicatorExample.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ImageSliderWithIndicatorExample.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ImageSliderWithIndicatorExample.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ImageSliderWithIndicatorExample.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ImageSliderWithIndicatorExample.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ImageSliderWithIndicatorExample.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ImageSliderWithIndicatorExample.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ImageSliderWithIndicatorExample.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
